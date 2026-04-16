@@ -1,0 +1,1 @@
+# django-rest-uy-vazifa-generics-2
